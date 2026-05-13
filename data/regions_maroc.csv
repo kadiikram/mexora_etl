@@ -1,0 +1,32 @@
+code_ville,nom_ville_standard,province,region_admin,zone_geo,population,code_postal
+CAS,Casablanca,Province de Casablanca,Casablanca-Settat,Centre,3752000,20000
+RAB,Rabat,Province de Rabat,Rabat-Salé-Kénitra,Centre,577827,10000
+TNG,Tanger,Province de Tanger,Tanger-Tétouan-Al Hoceïma,Nord,947952,90000
+FES,Fès,Province de Fès,Fès-Meknès,Centre-Nord,1112072,30000
+MKN,Marrakech,Province de Marrakech,Marrakech-Safi,Centre-Sud,928850,40000
+AGD,Agadir,Province d'Agadir,Souss-Massa,Sud,421844,80000
+MKNS,Meknès,Province de Meknès,Fès-Meknès,Centre-Nord,632079,50000
+OUJ,Oujda,Province d'Oujda,Oriental,Est,494252,60000
+TTA,Tétouan,Province de Tétouan,Tanger-Tétouan-Al Hoceïma,Nord,380787,90000
+ELJ,El Jadida,Province d'El Jadida,Casablanca-Settat,Centre,200978,24000
+KHM,Khemisset,Province de Khémisset,Rabat-Salé-Kénitra,Centre,206917,12000
+KNM,Kenitra,Province de Kénitra,Rabat-Salé-Kénitra,Centre,431282,26000
+SET,Settat,Province de Settat,Casablanca-Settat,Centre,142250,26000
+BER,Berrechid,Province de Berrechid,Casablanca-Settat,Centre,180000,26000
+SFI,Safi,Province de Safi,Marrakech-Safi,Centre-Sud,308508,46000
+ERN,Errachidia,Province d'Errachidia,Drâa-Tafilalet,Sud-Est,414517,52000
+BDA,Béni Mellal,Province de Béni Mellal,Béni Mellal-Khénifra,Centre,192676,23000
+TZN,Taza,Province de Taza,Fès-Meknès,Centre-Nord,150000,35000
+IZR,Ifrane,Province d'Ifrane,Fès-Meknès,Centre-Nord,130000,53000
+SAH,Sidi Slimane,Province de Sidi Slimane,Rabat-Salé-Kénitra,Centre,120000,12000
+FAH,Fahs-Anjra,Province de Fahs-Anjra,Tanger-Tétouan-Al Hoceïma,Nord,150000,91000
+NAD,Nador,Province de Nador,Oriental,Est,200000,62000
+OUZ,Ouarzazate,Province d'Ouarzazate,Drâa-Tafilalet,Sud,104000,45000
+MZN,Moulay Yacoub,Province de Moulay Yacoub,Fès-Meknès,Centre-Nord,75000,53000
+TGH,Taourirt,Province de Taourirt,Oriental,Est,90000,62000
+EDF,El Oued,Province d'El Oued,Oriental,Est,85000,61000
+DRT,Driouch,Province de Driouch,Tanger-Tétouan-Al Hoceïma,Nord,82000,61000
+ATM,Azilal,Province d'Azilal,Béni Mellal-Khénifra,Centre,75000,45000
+OUL,Oulad Teima,Province de Chtouka-Aït Baha,Souss-Massa,Sud,58000,82000
+NWB,Nador,Province de Nador,Oriental,Est,200000,62000
+BEN,Beni Mellal,Province de Béni Mellal,Béni Mellal-Khénifra,Centre,192676,23000

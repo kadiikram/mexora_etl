@@ -1,0 +1,595 @@
+2026-05-12 11:50:43,279 — INFO — Starting extraction
+2026-05-12 11:50:43,279 — INFO — Starting extraction
+2026-05-12 11:50:43,279 — INFO — Starting extraction
+2026-05-12 11:50:43,279 — INFO — Starting extraction
+2026-05-12 11:50:43,279 — INFO — Starting extraction
+2026-05-12 11:50:43,279 — INFO — Starting extraction
+2026-05-12 11:50:43,279 — INFO — Starting extraction
+2026-05-12 11:50:43,279 — INFO — Extracting commandes from C:\Users\ikram.kadi\Desktop\mexora_etl\data\commandes_mexora.csv
+2026-05-12 11:50:43,279 — INFO — Extracting commandes from C:\Users\ikram.kadi\Desktop\mexora_etl\data\commandes_mexora.csv
+2026-05-12 11:50:43,279 — INFO — Extracting commandes from C:\Users\ikram.kadi\Desktop\mexora_etl\data\commandes_mexora.csv
+2026-05-12 11:50:43,279 — INFO — Extracting commandes from C:\Users\ikram.kadi\Desktop\mexora_etl\data\commandes_mexora.csv
+2026-05-12 11:50:43,279 — INFO — Extracting commandes from C:\Users\ikram.kadi\Desktop\mexora_etl\data\commandes_mexora.csv
+2026-05-12 11:50:43,279 — INFO — Extracting commandes from C:\Users\ikram.kadi\Desktop\mexora_etl\data\commandes_mexora.csv
+2026-05-12 11:50:43,279 — INFO — Extracting commandes from C:\Users\ikram.kadi\Desktop\mexora_etl\data\commandes_mexora.csv
+2026-05-12 11:50:43,401 — INFO — Extracted 50000 rows from commandes
+2026-05-12 11:50:43,401 — INFO — Extracted 50000 rows from commandes
+2026-05-12 11:50:43,401 — INFO — Extracted 50000 rows from commandes
+2026-05-12 11:50:43,401 — INFO — Extracted 50000 rows from commandes
+2026-05-12 11:50:43,401 — INFO — Extracted 50000 rows from commandes
+2026-05-12 11:50:43,401 — INFO — Extracted 50000 rows from commandes
+2026-05-12 11:50:43,401 — INFO — Extracted 50000 rows from commandes
+2026-05-12 11:50:43,401 — INFO — Extracting produits from C:\Users\ikram.kadi\Desktop\mexora_etl\data\produits_mexora.json
+2026-05-12 11:50:43,401 — INFO — Extracting produits from C:\Users\ikram.kadi\Desktop\mexora_etl\data\produits_mexora.json
+2026-05-12 11:50:43,401 — INFO — Extracting produits from C:\Users\ikram.kadi\Desktop\mexora_etl\data\produits_mexora.json
+2026-05-12 11:50:43,401 — INFO — Extracting produits from C:\Users\ikram.kadi\Desktop\mexora_etl\data\produits_mexora.json
+2026-05-12 11:50:43,401 — INFO — Extracting produits from C:\Users\ikram.kadi\Desktop\mexora_etl\data\produits_mexora.json
+2026-05-12 11:50:43,401 — INFO — Extracting produits from C:\Users\ikram.kadi\Desktop\mexora_etl\data\produits_mexora.json
+2026-05-12 11:50:43,401 — INFO — Extracting produits from C:\Users\ikram.kadi\Desktop\mexora_etl\data\produits_mexora.json
+2026-05-12 11:50:43,406 — INFO — Extracted 100 products from produits
+2026-05-12 11:50:43,406 — INFO — Extracted 100 products from produits
+2026-05-12 11:50:43,406 — INFO — Extracted 100 products from produits
+2026-05-12 11:50:43,406 — INFO — Extracted 100 products from produits
+2026-05-12 11:50:43,406 — INFO — Extracted 100 products from produits
+2026-05-12 11:50:43,406 — INFO — Extracted 100 products from produits
+2026-05-12 11:50:43,406 — INFO — Extracted 100 products from produits
+2026-05-12 11:50:43,406 — INFO — Extracting clients from C:\Users\ikram.kadi\Desktop\mexora_etl\data\clients_mexora.csv
+2026-05-12 11:50:43,406 — INFO — Extracting clients from C:\Users\ikram.kadi\Desktop\mexora_etl\data\clients_mexora.csv
+2026-05-12 11:50:43,406 — INFO — Extracting clients from C:\Users\ikram.kadi\Desktop\mexora_etl\data\clients_mexora.csv
+2026-05-12 11:50:43,406 — INFO — Extracting clients from C:\Users\ikram.kadi\Desktop\mexora_etl\data\clients_mexora.csv
+2026-05-12 11:50:43,406 — INFO — Extracting clients from C:\Users\ikram.kadi\Desktop\mexora_etl\data\clients_mexora.csv
+2026-05-12 11:50:43,406 — INFO — Extracting clients from C:\Users\ikram.kadi\Desktop\mexora_etl\data\clients_mexora.csv
+2026-05-12 11:50:43,406 — INFO — Extracting clients from C:\Users\ikram.kadi\Desktop\mexora_etl\data\clients_mexora.csv
+2026-05-12 11:50:43,415 — INFO — Extracted 2000 rows from clients
+2026-05-12 11:50:43,415 — INFO — Extracted 2000 rows from clients
+2026-05-12 11:50:43,415 — INFO — Extracted 2000 rows from clients
+2026-05-12 11:50:43,415 — INFO — Extracted 2000 rows from clients
+2026-05-12 11:50:43,415 — INFO — Extracted 2000 rows from clients
+2026-05-12 11:50:43,415 — INFO — Extracted 2000 rows from clients
+2026-05-12 11:50:43,415 — INFO — Extracted 2000 rows from clients
+2026-05-12 11:50:43,421 — INFO — Extracting regions from C:\Users\ikram.kadi\Desktop\mexora_etl\data\regions_maroc.csv
+2026-05-12 11:50:43,421 — INFO — Extracting regions from C:\Users\ikram.kadi\Desktop\mexora_etl\data\regions_maroc.csv
+2026-05-12 11:50:43,421 — INFO — Extracting regions from C:\Users\ikram.kadi\Desktop\mexora_etl\data\regions_maroc.csv
+2026-05-12 11:50:43,421 — INFO — Extracting regions from C:\Users\ikram.kadi\Desktop\mexora_etl\data\regions_maroc.csv
+2026-05-12 11:50:43,421 — INFO — Extracting regions from C:\Users\ikram.kadi\Desktop\mexora_etl\data\regions_maroc.csv
+2026-05-12 11:50:43,421 — INFO — Extracting regions from C:\Users\ikram.kadi\Desktop\mexora_etl\data\regions_maroc.csv
+2026-05-12 11:50:43,421 — INFO — Extracting regions from C:\Users\ikram.kadi\Desktop\mexora_etl\data\regions_maroc.csv
+2026-05-12 11:50:43,422 — INFO — Extracted 31 rows from regions
+2026-05-12 11:50:43,422 — INFO — Extracted 31 rows from regions
+2026-05-12 11:50:43,422 — INFO — Extracted 31 rows from regions
+2026-05-12 11:50:43,422 — INFO — Extracted 31 rows from regions
+2026-05-12 11:50:43,422 — INFO — Extracted 31 rows from regions
+2026-05-12 11:50:43,422 — INFO — Extracted 31 rows from regions
+2026-05-12 11:50:43,422 — INFO — Extracted 31 rows from regions
+2026-05-12 11:50:43,422 — INFO — Extraction completed
+2026-05-12 11:50:43,422 — INFO — Extraction completed
+2026-05-12 11:50:43,422 — INFO — Extraction completed
+2026-05-12 11:50:43,422 — INFO — Extraction completed
+2026-05-12 11:50:43,422 — INFO — Extraction completed
+2026-05-12 11:50:43,422 — INFO — Extraction completed
+2026-05-12 11:50:43,422 — INFO — Extraction completed
+2026-05-12 11:50:43,426 — INFO — Starting transformation
+2026-05-12 11:50:43,426 — INFO — Starting transformation
+2026-05-12 11:50:43,426 — INFO — Starting transformation
+2026-05-12 11:50:43,426 — INFO — Starting transformation
+2026-05-12 11:50:43,426 — INFO — Starting transformation
+2026-05-12 11:50:43,426 — INFO — Starting transformation
+2026-05-12 11:50:43,426 — INFO — Starting transformation
+2026-05-12 11:50:43,426 — INFO — Starting transformation of commandes
+2026-05-12 11:50:43,426 — INFO — Starting transformation of commandes
+2026-05-12 11:50:43,426 — INFO — Starting transformation of commandes
+2026-05-12 11:50:43,426 — INFO — Starting transformation of commandes
+2026-05-12 11:50:43,426 — INFO — Starting transformation of commandes
+2026-05-12 11:50:43,426 — INFO — Starting transformation of commandes
+2026-05-12 11:50:43,426 — INFO — Starting transformation of commandes
+2026-05-12 11:50:43,428 — INFO — Before R1: 50000 rows
+2026-05-12 11:50:43,428 — INFO — Before R1: 50000 rows
+2026-05-12 11:50:43,428 — INFO — Before R1: 50000 rows
+2026-05-12 11:50:43,428 — INFO — Before R1: 50000 rows
+2026-05-12 11:50:43,428 — INFO — Before R1: 50000 rows
+2026-05-12 11:50:43,428 — INFO — Before R1: 50000 rows
+2026-05-12 11:50:43,428 — INFO — Before R1: 50000 rows
+2026-05-12 11:50:43,441 — INFO — After R1: 48500 rows
+2026-05-12 11:50:43,441 — INFO — After R1: 48500 rows
+2026-05-12 11:50:43,441 — INFO — After R1: 48500 rows
+2026-05-12 11:50:43,441 — INFO — After R1: 48500 rows
+2026-05-12 11:50:43,441 — INFO — After R1: 48500 rows
+2026-05-12 11:50:43,441 — INFO — After R1: 48500 rows
+2026-05-12 11:50:43,441 — INFO — After R1: 48500 rows
+2026-05-12 11:50:43,441 — INFO — Applying R2: Standardizing dates
+2026-05-12 11:50:43,441 — INFO — Applying R2: Standardizing dates
+2026-05-12 11:50:43,441 — INFO — Applying R2: Standardizing dates
+2026-05-12 11:50:43,441 — INFO — Applying R2: Standardizing dates
+2026-05-12 11:50:43,441 — INFO — Applying R2: Standardizing dates
+2026-05-12 11:50:43,441 — INFO — Applying R2: Standardizing dates
+2026-05-12 11:50:43,441 — INFO — Applying R2: Standardizing dates
+2026-05-12 11:50:47,132 — INFO — R2 completed
+2026-05-12 11:50:47,132 — INFO — R2 completed
+2026-05-12 11:50:47,132 — INFO — R2 completed
+2026-05-12 11:50:47,132 — INFO — R2 completed
+2026-05-12 11:50:47,132 — INFO — R2 completed
+2026-05-12 11:50:47,132 — INFO — R2 completed
+2026-05-12 11:50:47,132 — INFO — R2 completed
+2026-05-12 11:50:47,132 — INFO — Applying R3: Normalizing ville_livraison
+2026-05-12 11:50:47,132 — INFO — Applying R3: Normalizing ville_livraison
+2026-05-12 11:50:47,132 — INFO — Applying R3: Normalizing ville_livraison
+2026-05-12 11:50:47,132 — INFO — Applying R3: Normalizing ville_livraison
+2026-05-12 11:50:47,132 — INFO — Applying R3: Normalizing ville_livraison
+2026-05-12 11:50:47,132 — INFO — Applying R3: Normalizing ville_livraison
+2026-05-12 11:50:47,132 — INFO — Applying R3: Normalizing ville_livraison
+2026-05-12 11:50:47,155 — INFO — R3 completed
+2026-05-12 11:50:47,155 — INFO — R3 completed
+2026-05-12 11:50:47,155 — INFO — R3 completed
+2026-05-12 11:50:47,155 — INFO — R3 completed
+2026-05-12 11:50:47,155 — INFO — R3 completed
+2026-05-12 11:50:47,155 — INFO — R3 completed
+2026-05-12 11:50:47,155 — INFO — R3 completed
+2026-05-12 11:50:47,155 — INFO — Applying R4: Standardizing statut
+2026-05-12 11:50:47,155 — INFO — Applying R4: Standardizing statut
+2026-05-12 11:50:47,155 — INFO — Applying R4: Standardizing statut
+2026-05-12 11:50:47,155 — INFO — Applying R4: Standardizing statut
+2026-05-12 11:50:47,155 — INFO — Applying R4: Standardizing statut
+2026-05-12 11:50:47,155 — INFO — Applying R4: Standardizing statut
+2026-05-12 11:50:47,155 — INFO — Applying R4: Standardizing statut
+2026-05-12 11:50:47,163 — INFO — R4 completed
+2026-05-12 11:50:47,163 — INFO — R4 completed
+2026-05-12 11:50:47,163 — INFO — R4 completed
+2026-05-12 11:50:47,163 — INFO — R4 completed
+2026-05-12 11:50:47,163 — INFO — R4 completed
+2026-05-12 11:50:47,163 — INFO — R4 completed
+2026-05-12 11:50:47,163 — INFO — R4 completed
+2026-05-12 11:50:47,163 — INFO — Before R5: 48500 rows
+2026-05-12 11:50:47,163 — INFO — Before R5: 48500 rows
+2026-05-12 11:50:47,163 — INFO — Before R5: 48500 rows
+2026-05-12 11:50:47,163 — INFO — Before R5: 48500 rows
+2026-05-12 11:50:47,163 — INFO — Before R5: 48500 rows
+2026-05-12 11:50:47,163 — INFO — Before R5: 48500 rows
+2026-05-12 11:50:47,163 — INFO — Before R5: 48500 rows
+2026-05-12 11:50:47,194 — INFO — After R5: 48451 rows
+2026-05-12 11:50:47,194 — INFO — After R5: 48451 rows
+2026-05-12 11:50:47,194 — INFO — After R5: 48451 rows
+2026-05-12 11:50:47,194 — INFO — After R5: 48451 rows
+2026-05-12 11:50:47,194 — INFO — After R5: 48451 rows
+2026-05-12 11:50:47,194 — INFO — After R5: 48451 rows
+2026-05-12 11:50:47,194 — INFO — After R5: 48451 rows
+2026-05-12 11:50:47,196 — INFO — Before R6: 48451 rows
+2026-05-12 11:50:47,196 — INFO — Before R6: 48451 rows
+2026-05-12 11:50:47,196 — INFO — Before R6: 48451 rows
+2026-05-12 11:50:47,196 — INFO — Before R6: 48451 rows
+2026-05-12 11:50:47,196 — INFO — Before R6: 48451 rows
+2026-05-12 11:50:47,196 — INFO — Before R6: 48451 rows
+2026-05-12 11:50:47,196 — INFO — Before R6: 48451 rows
+2026-05-12 11:50:47,229 — INFO — After R6: 48355 rows
+2026-05-12 11:50:47,229 — INFO — After R6: 48355 rows
+2026-05-12 11:50:47,229 — INFO — After R6: 48355 rows
+2026-05-12 11:50:47,229 — INFO — After R6: 48355 rows
+2026-05-12 11:50:47,229 — INFO — After R6: 48355 rows
+2026-05-12 11:50:47,229 — INFO — After R6: 48355 rows
+2026-05-12 11:50:47,229 — INFO — After R6: 48355 rows
+2026-05-12 11:50:47,230 — INFO — Applying R7: Filling missing id_livreur
+2026-05-12 11:50:47,230 — INFO — Applying R7: Filling missing id_livreur
+2026-05-12 11:50:47,230 — INFO — Applying R7: Filling missing id_livreur
+2026-05-12 11:50:47,230 — INFO — Applying R7: Filling missing id_livreur
+2026-05-12 11:50:47,230 — INFO — Applying R7: Filling missing id_livreur
+2026-05-12 11:50:47,230 — INFO — Applying R7: Filling missing id_livreur
+2026-05-12 11:50:47,230 — INFO — Applying R7: Filling missing id_livreur
+2026-05-12 11:50:47,232 — INFO — R7 completed
+2026-05-12 11:50:47,232 — INFO — R7 completed
+2026-05-12 11:50:47,232 — INFO — R7 completed
+2026-05-12 11:50:47,232 — INFO — R7 completed
+2026-05-12 11:50:47,232 — INFO — R7 completed
+2026-05-12 11:50:47,232 — INFO — R7 completed
+2026-05-12 11:50:47,232 — INFO — R7 completed
+2026-05-12 11:50:47,236 — INFO — Adding montant_ttc column
+2026-05-12 11:50:47,236 — INFO — Adding montant_ttc column
+2026-05-12 11:50:47,236 — INFO — Adding montant_ttc column
+2026-05-12 11:50:47,236 — INFO — Adding montant_ttc column
+2026-05-12 11:50:47,236 — INFO — Adding montant_ttc column
+2026-05-12 11:50:47,236 — INFO — Adding montant_ttc column
+2026-05-12 11:50:47,236 — INFO — Adding montant_ttc column
+2026-05-12 11:50:47,280 — INFO — montant_ttc added
+2026-05-12 11:50:47,280 — INFO — montant_ttc added
+2026-05-12 11:50:47,280 — INFO — montant_ttc added
+2026-05-12 11:50:47,280 — INFO — montant_ttc added
+2026-05-12 11:50:47,280 — INFO — montant_ttc added
+2026-05-12 11:50:47,280 — INFO — montant_ttc added
+2026-05-12 11:50:47,280 — INFO — montant_ttc added
+2026-05-12 11:50:47,283 — INFO — Transformation of commandes completed
+2026-05-12 11:50:47,283 — INFO — Transformation of commandes completed
+2026-05-12 11:50:47,283 — INFO — Transformation of commandes completed
+2026-05-12 11:50:47,283 — INFO — Transformation of commandes completed
+2026-05-12 11:50:47,283 — INFO — Transformation of commandes completed
+2026-05-12 11:50:47,283 — INFO — Transformation of commandes completed
+2026-05-12 11:50:47,283 — INFO — Transformation of commandes completed
+2026-05-12 11:50:47,285 — INFO — Starting transformation of clients
+2026-05-12 11:50:47,285 — INFO — Starting transformation of clients
+2026-05-12 11:50:47,285 — INFO — Starting transformation of clients
+2026-05-12 11:50:47,285 — INFO — Starting transformation of clients
+2026-05-12 11:50:47,285 — INFO — Starting transformation of clients
+2026-05-12 11:50:47,285 — INFO — Starting transformation of clients
+2026-05-12 11:50:47,285 — INFO — Starting transformation of clients
+2026-05-12 11:50:47,285 — INFO — Before R1: 2000 rows
+2026-05-12 11:50:47,285 — INFO — Before R1: 2000 rows
+2026-05-12 11:50:47,285 — INFO — Before R1: 2000 rows
+2026-05-12 11:50:47,285 — INFO — Before R1: 2000 rows
+2026-05-12 11:50:47,285 — INFO — Before R1: 2000 rows
+2026-05-12 11:50:47,285 — INFO — Before R1: 2000 rows
+2026-05-12 11:50:47,285 — INFO — Before R1: 2000 rows
+2026-05-12 11:50:47,288 — INFO — After R1: 1867 rows
+2026-05-12 11:50:47,288 — INFO — After R1: 1867 rows
+2026-05-12 11:50:47,288 — INFO — After R1: 1867 rows
+2026-05-12 11:50:47,288 — INFO — After R1: 1867 rows
+2026-05-12 11:50:47,288 — INFO — After R1: 1867 rows
+2026-05-12 11:50:47,288 — INFO — After R1: 1867 rows
+2026-05-12 11:50:47,288 — INFO — After R1: 1867 rows
+2026-05-12 11:50:47,294 — INFO — Applying R2: Standardizing sexe
+2026-05-12 11:50:47,294 — INFO — Applying R2: Standardizing sexe
+2026-05-12 11:50:47,294 — INFO — Applying R2: Standardizing sexe
+2026-05-12 11:50:47,294 — INFO — Applying R2: Standardizing sexe
+2026-05-12 11:50:47,294 — INFO — Applying R2: Standardizing sexe
+2026-05-12 11:50:47,294 — INFO — Applying R2: Standardizing sexe
+2026-05-12 11:50:47,294 — INFO — Applying R2: Standardizing sexe
+2026-05-12 11:50:47,296 — INFO — R2 completed
+2026-05-12 11:50:47,296 — INFO — R2 completed
+2026-05-12 11:50:47,296 — INFO — R2 completed
+2026-05-12 11:50:47,296 — INFO — R2 completed
+2026-05-12 11:50:47,296 — INFO — R2 completed
+2026-05-12 11:50:47,296 — INFO — R2 completed
+2026-05-12 11:50:47,296 — INFO — R2 completed
+2026-05-12 11:50:47,296 — INFO — Applying R3: Validating date_naissance
+2026-05-12 11:50:47,296 — INFO — Applying R3: Validating date_naissance
+2026-05-12 11:50:47,296 — INFO — Applying R3: Validating date_naissance
+2026-05-12 11:50:47,296 — INFO — Applying R3: Validating date_naissance
+2026-05-12 11:50:47,296 — INFO — Applying R3: Validating date_naissance
+2026-05-12 11:50:47,296 — INFO — Applying R3: Validating date_naissance
+2026-05-12 11:50:47,296 — INFO — Applying R3: Validating date_naissance
+2026-05-12 11:50:47,303 — INFO — R3 completed
+2026-05-12 11:50:47,303 — INFO — R3 completed
+2026-05-12 11:50:47,303 — INFO — R3 completed
+2026-05-12 11:50:47,303 — INFO — R3 completed
+2026-05-12 11:50:47,303 — INFO — R3 completed
+2026-05-12 11:50:47,303 — INFO — R3 completed
+2026-05-12 11:50:47,303 — INFO — R3 completed
+2026-05-12 11:50:47,304 — INFO — Applying R4: Adding tranche_age
+2026-05-12 11:50:47,304 — INFO — Applying R4: Adding tranche_age
+2026-05-12 11:50:47,304 — INFO — Applying R4: Adding tranche_age
+2026-05-12 11:50:47,304 — INFO — Applying R4: Adding tranche_age
+2026-05-12 11:50:47,304 — INFO — Applying R4: Adding tranche_age
+2026-05-12 11:50:47,304 — INFO — Applying R4: Adding tranche_age
+2026-05-12 11:50:47,304 — INFO — Applying R4: Adding tranche_age
+2026-05-12 11:50:47,306 — INFO — R4 completed
+2026-05-12 11:50:47,306 — INFO — R4 completed
+2026-05-12 11:50:47,306 — INFO — R4 completed
+2026-05-12 11:50:47,306 — INFO — R4 completed
+2026-05-12 11:50:47,306 — INFO — R4 completed
+2026-05-12 11:50:47,306 — INFO — R4 completed
+2026-05-12 11:50:47,306 — INFO — R4 completed
+2026-05-12 11:50:47,309 — INFO — Applying R5: Validating email format
+2026-05-12 11:50:47,309 — INFO — Applying R5: Validating email format
+2026-05-12 11:50:47,309 — INFO — Applying R5: Validating email format
+2026-05-12 11:50:47,309 — INFO — Applying R5: Validating email format
+2026-05-12 11:50:47,309 — INFO — Applying R5: Validating email format
+2026-05-12 11:50:47,309 — INFO — Applying R5: Validating email format
+2026-05-12 11:50:47,309 — INFO — Applying R5: Validating email format
+2026-05-12 11:50:47,311 — INFO — R5 completed
+2026-05-12 11:50:47,311 — INFO — R5 completed
+2026-05-12 11:50:47,311 — INFO — R5 completed
+2026-05-12 11:50:47,311 — INFO — R5 completed
+2026-05-12 11:50:47,311 — INFO — R5 completed
+2026-05-12 11:50:47,311 — INFO — R5 completed
+2026-05-12 11:50:47,311 — INFO — R5 completed
+2026-05-12 11:50:47,311 — INFO — Applying R6: Normalizing ville
+2026-05-12 11:50:47,311 — INFO — Applying R6: Normalizing ville
+2026-05-12 11:50:47,311 — INFO — Applying R6: Normalizing ville
+2026-05-12 11:50:47,311 — INFO — Applying R6: Normalizing ville
+2026-05-12 11:50:47,311 — INFO — Applying R6: Normalizing ville
+2026-05-12 11:50:47,311 — INFO — Applying R6: Normalizing ville
+2026-05-12 11:50:47,311 — INFO — Applying R6: Normalizing ville
+2026-05-12 11:50:47,315 — INFO — R6 completed
+2026-05-12 11:50:47,315 — INFO — R6 completed
+2026-05-12 11:50:47,315 — INFO — R6 completed
+2026-05-12 11:50:47,315 — INFO — R6 completed
+2026-05-12 11:50:47,315 — INFO — R6 completed
+2026-05-12 11:50:47,315 — INFO — R6 completed
+2026-05-12 11:50:47,315 — INFO — R6 completed
+2026-05-12 11:50:47,315 — INFO — Transformation of clients completed
+2026-05-12 11:50:47,315 — INFO — Transformation of clients completed
+2026-05-12 11:50:47,315 — INFO — Transformation of clients completed
+2026-05-12 11:50:47,315 — INFO — Transformation of clients completed
+2026-05-12 11:50:47,315 — INFO — Transformation of clients completed
+2026-05-12 11:50:47,315 — INFO — Transformation of clients completed
+2026-05-12 11:50:47,315 — INFO — Transformation of clients completed
+2026-05-12 11:50:47,318 — INFO — Starting transformation of produits
+2026-05-12 11:50:47,318 — INFO — Starting transformation of produits
+2026-05-12 11:50:47,318 — INFO — Starting transformation of produits
+2026-05-12 11:50:47,318 — INFO — Starting transformation of produits
+2026-05-12 11:50:47,318 — INFO — Starting transformation of produits
+2026-05-12 11:50:47,318 — INFO — Starting transformation of produits
+2026-05-12 11:50:47,318 — INFO — Starting transformation of produits
+2026-05-12 11:50:47,319 — INFO — Normalizing categorie to title case
+2026-05-12 11:50:47,319 — INFO — Normalizing categorie to title case
+2026-05-12 11:50:47,319 — INFO — Normalizing categorie to title case
+2026-05-12 11:50:47,319 — INFO — Normalizing categorie to title case
+2026-05-12 11:50:47,319 — INFO — Normalizing categorie to title case
+2026-05-12 11:50:47,319 — INFO — Normalizing categorie to title case
+2026-05-12 11:50:47,319 — INFO — Normalizing categorie to title case
+2026-05-12 11:50:47,320 — INFO — Categorie normalized
+2026-05-12 11:50:47,320 — INFO — Categorie normalized
+2026-05-12 11:50:47,320 — INFO — Categorie normalized
+2026-05-12 11:50:47,320 — INFO — Categorie normalized
+2026-05-12 11:50:47,320 — INFO — Categorie normalized
+2026-05-12 11:50:47,320 — INFO — Categorie normalized
+2026-05-12 11:50:47,320 — INFO — Categorie normalized
+2026-05-12 11:50:47,321 — INFO — Filling null prix_catalogue with median of categorie
+2026-05-12 11:50:47,321 — INFO — Filling null prix_catalogue with median of categorie
+2026-05-12 11:50:47,321 — INFO — Filling null prix_catalogue with median of categorie
+2026-05-12 11:50:47,321 — INFO — Filling null prix_catalogue with median of categorie
+2026-05-12 11:50:47,321 — INFO — Filling null prix_catalogue with median of categorie
+2026-05-12 11:50:47,321 — INFO — Filling null prix_catalogue with median of categorie
+2026-05-12 11:50:47,321 — INFO — Filling null prix_catalogue with median of categorie
+2026-05-12 11:50:47,324 — INFO — Null prix_catalogue filled
+2026-05-12 11:50:47,324 — INFO — Null prix_catalogue filled
+2026-05-12 11:50:47,324 — INFO — Null prix_catalogue filled
+2026-05-12 11:50:47,324 — INFO — Null prix_catalogue filled
+2026-05-12 11:50:47,324 — INFO — Null prix_catalogue filled
+2026-05-12 11:50:47,324 — INFO — Null prix_catalogue filled
+2026-05-12 11:50:47,324 — INFO — Null prix_catalogue filled
+2026-05-12 11:50:47,326 — INFO — Flagging inactive products
+2026-05-12 11:50:47,326 — INFO — Flagging inactive products
+2026-05-12 11:50:47,326 — INFO — Flagging inactive products
+2026-05-12 11:50:47,326 — INFO — Flagging inactive products
+2026-05-12 11:50:47,326 — INFO — Flagging inactive products
+2026-05-12 11:50:47,326 — INFO — Flagging inactive products
+2026-05-12 11:50:47,326 — INFO — Flagging inactive products
+2026-05-12 11:50:47,327 — INFO — Inactive products flagged
+2026-05-12 11:50:47,327 — INFO — Inactive products flagged
+2026-05-12 11:50:47,327 — INFO — Inactive products flagged
+2026-05-12 11:50:47,327 — INFO — Inactive products flagged
+2026-05-12 11:50:47,327 — INFO — Inactive products flagged
+2026-05-12 11:50:47,327 — INFO — Inactive products flagged
+2026-05-12 11:50:47,327 — INFO — Inactive products flagged
+2026-05-12 11:50:47,327 — INFO — Adding categorie_normalized column
+2026-05-12 11:50:47,327 — INFO — Adding categorie_normalized column
+2026-05-12 11:50:47,327 — INFO — Adding categorie_normalized column
+2026-05-12 11:50:47,327 — INFO — Adding categorie_normalized column
+2026-05-12 11:50:47,327 — INFO — Adding categorie_normalized column
+2026-05-12 11:50:47,327 — INFO — Adding categorie_normalized column
+2026-05-12 11:50:47,327 — INFO — Adding categorie_normalized column
+2026-05-12 11:50:47,329 — INFO — categorie_normalized added
+2026-05-12 11:50:47,329 — INFO — categorie_normalized added
+2026-05-12 11:50:47,329 — INFO — categorie_normalized added
+2026-05-12 11:50:47,329 — INFO — categorie_normalized added
+2026-05-12 11:50:47,329 — INFO — categorie_normalized added
+2026-05-12 11:50:47,329 — INFO — categorie_normalized added
+2026-05-12 11:50:47,329 — INFO — categorie_normalized added
+2026-05-12 11:50:47,329 — INFO — Transformation of produits completed
+2026-05-12 11:50:47,329 — INFO — Transformation of produits completed
+2026-05-12 11:50:47,329 — INFO — Transformation of produits completed
+2026-05-12 11:50:47,329 — INFO — Transformation of produits completed
+2026-05-12 11:50:47,329 — INFO — Transformation of produits completed
+2026-05-12 11:50:47,329 — INFO — Transformation of produits completed
+2026-05-12 11:50:47,329 — INFO — Transformation of produits completed
+2026-05-12 11:50:47,329 — INFO — Transformation completed
+2026-05-12 11:50:47,329 — INFO — Transformation completed
+2026-05-12 11:50:47,329 — INFO — Transformation completed
+2026-05-12 11:50:47,329 — INFO — Transformation completed
+2026-05-12 11:50:47,329 — INFO — Transformation completed
+2026-05-12 11:50:47,329 — INFO — Transformation completed
+2026-05-12 11:50:47,329 — INFO — Transformation completed
+2026-05-12 11:50:47,329 — INFO — Starting dimension building
+2026-05-12 11:50:47,329 — INFO — Starting dimension building
+2026-05-12 11:50:47,329 — INFO — Starting dimension building
+2026-05-12 11:50:47,329 — INFO — Starting dimension building
+2026-05-12 11:50:47,329 — INFO — Starting dimension building
+2026-05-12 11:50:47,329 — INFO — Starting dimension building
+2026-05-12 11:50:47,329 — INFO — Starting dimension building
+2026-05-12 11:50:47,329 — INFO — Building dim_temps
+2026-05-12 11:50:47,329 — INFO — Building dim_temps
+2026-05-12 11:50:47,329 — INFO — Building dim_temps
+2026-05-12 11:50:47,329 — INFO — Building dim_temps
+2026-05-12 11:50:47,329 — INFO — Building dim_temps
+2026-05-12 11:50:47,329 — INFO — Building dim_temps
+2026-05-12 11:50:47,329 — INFO — Building dim_temps
+2026-05-12 11:50:47,379 — INFO — dim_temps built with 2192 rows
+2026-05-12 11:50:47,379 — INFO — dim_temps built with 2192 rows
+2026-05-12 11:50:47,379 — INFO — dim_temps built with 2192 rows
+2026-05-12 11:50:47,379 — INFO — dim_temps built with 2192 rows
+2026-05-12 11:50:47,379 — INFO — dim_temps built with 2192 rows
+2026-05-12 11:50:47,379 — INFO — dim_temps built with 2192 rows
+2026-05-12 11:50:47,379 — INFO — dim_temps built with 2192 rows
+2026-05-12 11:50:47,379 — INFO — Building dim_client
+2026-05-12 11:50:47,379 — INFO — Building dim_client
+2026-05-12 11:50:47,379 — INFO — Building dim_client
+2026-05-12 11:50:47,379 — INFO — Building dim_client
+2026-05-12 11:50:47,379 — INFO — Building dim_client
+2026-05-12 11:50:47,379 — INFO — Building dim_client
+2026-05-12 11:50:47,379 — INFO — Building dim_client
+2026-05-12 11:50:47,413 — INFO — dim_client built with 1867 rows
+2026-05-12 11:50:47,413 — INFO — dim_client built with 1867 rows
+2026-05-12 11:50:47,413 — INFO — dim_client built with 1867 rows
+2026-05-12 11:50:47,413 — INFO — dim_client built with 1867 rows
+2026-05-12 11:50:47,413 — INFO — dim_client built with 1867 rows
+2026-05-12 11:50:47,413 — INFO — dim_client built with 1867 rows
+2026-05-12 11:50:47,413 — INFO — dim_client built with 1867 rows
+2026-05-12 11:50:47,414 — INFO — Building dim_produit
+2026-05-12 11:50:47,414 — INFO — Building dim_produit
+2026-05-12 11:50:47,414 — INFO — Building dim_produit
+2026-05-12 11:50:47,414 — INFO — Building dim_produit
+2026-05-12 11:50:47,414 — INFO — Building dim_produit
+2026-05-12 11:50:47,414 — INFO — Building dim_produit
+2026-05-12 11:50:47,414 — INFO — Building dim_produit
+2026-05-12 11:50:47,417 — INFO — dim_produit built with 100 rows
+2026-05-12 11:50:47,417 — INFO — dim_produit built with 100 rows
+2026-05-12 11:50:47,417 — INFO — dim_produit built with 100 rows
+2026-05-12 11:50:47,417 — INFO — dim_produit built with 100 rows
+2026-05-12 11:50:47,417 — INFO — dim_produit built with 100 rows
+2026-05-12 11:50:47,417 — INFO — dim_produit built with 100 rows
+2026-05-12 11:50:47,417 — INFO — dim_produit built with 100 rows
+2026-05-12 11:50:47,417 — INFO — Building dim_region
+2026-05-12 11:50:47,417 — INFO — Building dim_region
+2026-05-12 11:50:47,417 — INFO — Building dim_region
+2026-05-12 11:50:47,417 — INFO — Building dim_region
+2026-05-12 11:50:47,417 — INFO — Building dim_region
+2026-05-12 11:50:47,417 — INFO — Building dim_region
+2026-05-12 11:50:47,417 — INFO — Building dim_region
+2026-05-12 11:50:47,417 — INFO — dim_region built with 31 rows
+2026-05-12 11:50:47,417 — INFO — dim_region built with 31 rows
+2026-05-12 11:50:47,417 — INFO — dim_region built with 31 rows
+2026-05-12 11:50:47,417 — INFO — dim_region built with 31 rows
+2026-05-12 11:50:47,417 — INFO — dim_region built with 31 rows
+2026-05-12 11:50:47,417 — INFO — dim_region built with 31 rows
+2026-05-12 11:50:47,417 — INFO — dim_region built with 31 rows
+2026-05-12 11:50:47,420 — INFO — Building dim_livreur
+2026-05-12 11:50:47,420 — INFO — Building dim_livreur
+2026-05-12 11:50:47,420 — INFO — Building dim_livreur
+2026-05-12 11:50:47,420 — INFO — Building dim_livreur
+2026-05-12 11:50:47,420 — INFO — Building dim_livreur
+2026-05-12 11:50:47,420 — INFO — Building dim_livreur
+2026-05-12 11:50:47,420 — INFO — Building dim_livreur
+2026-05-12 11:50:47,425 — INFO — dim_livreur built with 31 rows
+2026-05-12 11:50:47,425 — INFO — dim_livreur built with 31 rows
+2026-05-12 11:50:47,425 — INFO — dim_livreur built with 31 rows
+2026-05-12 11:50:47,425 — INFO — dim_livreur built with 31 rows
+2026-05-12 11:50:47,425 — INFO — dim_livreur built with 31 rows
+2026-05-12 11:50:47,425 — INFO — dim_livreur built with 31 rows
+2026-05-12 11:50:47,425 — INFO — dim_livreur built with 31 rows
+2026-05-12 11:50:47,425 — INFO — Dimension building completed
+2026-05-12 11:50:47,425 — INFO — Dimension building completed
+2026-05-12 11:50:47,425 — INFO — Dimension building completed
+2026-05-12 11:50:47,425 — INFO — Dimension building completed
+2026-05-12 11:50:47,425 — INFO — Dimension building completed
+2026-05-12 11:50:47,425 — INFO — Dimension building completed
+2026-05-12 11:50:47,425 — INFO — Dimension building completed
+2026-05-12 11:50:47,426 — INFO — Starting fait_ventes building
+2026-05-12 11:50:47,426 — INFO — Starting fait_ventes building
+2026-05-12 11:50:47,426 — INFO — Starting fait_ventes building
+2026-05-12 11:50:47,426 — INFO — Starting fait_ventes building
+2026-05-12 11:50:47,426 — INFO — Starting fait_ventes building
+2026-05-12 11:50:47,426 — INFO — Starting fait_ventes building
+2026-05-12 11:50:47,426 — INFO — Starting fait_ventes building
+2026-05-12 11:50:47,426 — INFO — Building fait_ventes
+2026-05-12 11:50:47,426 — INFO — Building fait_ventes
+2026-05-12 11:50:47,426 — INFO — Building fait_ventes
+2026-05-12 11:50:47,426 — INFO — Building fait_ventes
+2026-05-12 11:50:47,426 — INFO — Building fait_ventes
+2026-05-12 11:50:47,426 — INFO — Building fait_ventes
+2026-05-12 11:50:47,426 — INFO — Building fait_ventes
+2026-05-12 11:50:47,825 — INFO — fait_ventes built with 48355 rows
+2026-05-12 11:50:47,825 — INFO — fait_ventes built with 48355 rows
+2026-05-12 11:50:47,825 — INFO — fait_ventes built with 48355 rows
+2026-05-12 11:50:47,825 — INFO — fait_ventes built with 48355 rows
+2026-05-12 11:50:47,825 — INFO — fait_ventes built with 48355 rows
+2026-05-12 11:50:47,825 — INFO — fait_ventes built with 48355 rows
+2026-05-12 11:50:47,825 — INFO — fait_ventes built with 48355 rows
+2026-05-12 11:50:47,829 — INFO — fait_ventes building completed
+2026-05-12 11:50:47,829 — INFO — fait_ventes building completed
+2026-05-12 11:50:47,829 — INFO — fait_ventes building completed
+2026-05-12 11:50:47,829 — INFO — fait_ventes building completed
+2026-05-12 11:50:47,829 — INFO — fait_ventes building completed
+2026-05-12 11:50:47,829 — INFO — fait_ventes building completed
+2026-05-12 11:50:47,829 — INFO — fait_ventes building completed
+2026-05-12 11:50:47,830 — INFO — Starting loading
+2026-05-12 11:50:47,830 — INFO — Starting loading
+2026-05-12 11:50:47,830 — INFO — Starting loading
+2026-05-12 11:50:47,830 — INFO — Starting loading
+2026-05-12 11:50:47,830 — INFO — Starting loading
+2026-05-12 11:50:47,830 — INFO — Starting loading
+2026-05-12 11:50:47,830 — INFO — Starting loading
+2026-05-12 11:50:47,887 — INFO — Loading dimension dim_temps with 2192 rows
+2026-05-12 11:50:47,887 — INFO — Loading dimension dim_temps with 2192 rows
+2026-05-12 11:50:47,887 — INFO — Loading dimension dim_temps with 2192 rows
+2026-05-12 11:50:47,887 — INFO — Loading dimension dim_temps with 2192 rows
+2026-05-12 11:50:47,887 — INFO — Loading dimension dim_temps with 2192 rows
+2026-05-12 11:50:47,887 — INFO — Loading dimension dim_temps with 2192 rows
+2026-05-12 11:50:47,887 — INFO — Loading dimension dim_temps with 2192 rows
+2026-05-12 11:50:48,490 — INFO — Loaded dim_temps
+2026-05-12 11:50:48,490 — INFO — Loaded dim_temps
+2026-05-12 11:50:48,490 — INFO — Loaded dim_temps
+2026-05-12 11:50:48,490 — INFO — Loaded dim_temps
+2026-05-12 11:50:48,490 — INFO — Loaded dim_temps
+2026-05-12 11:50:48,490 — INFO — Loaded dim_temps
+2026-05-12 11:50:48,490 — INFO — Loaded dim_temps
+2026-05-12 11:50:48,490 — INFO — Loading dimension dim_client with 1867 rows
+2026-05-12 11:50:48,490 — INFO — Loading dimension dim_client with 1867 rows
+2026-05-12 11:50:48,490 — INFO — Loading dimension dim_client with 1867 rows
+2026-05-12 11:50:48,490 — INFO — Loading dimension dim_client with 1867 rows
+2026-05-12 11:50:48,490 — INFO — Loading dimension dim_client with 1867 rows
+2026-05-12 11:50:48,490 — INFO — Loading dimension dim_client with 1867 rows
+2026-05-12 11:50:48,490 — INFO — Loading dimension dim_client with 1867 rows
+2026-05-12 11:50:49,068 — INFO — Loaded dim_client
+2026-05-12 11:50:49,068 — INFO — Loaded dim_client
+2026-05-12 11:50:49,068 — INFO — Loaded dim_client
+2026-05-12 11:50:49,068 — INFO — Loaded dim_client
+2026-05-12 11:50:49,068 — INFO — Loaded dim_client
+2026-05-12 11:50:49,068 — INFO — Loaded dim_client
+2026-05-12 11:50:49,068 — INFO — Loaded dim_client
+2026-05-12 11:50:49,068 — INFO — Loading dimension dim_produit with 100 rows
+2026-05-12 11:50:49,068 — INFO — Loading dimension dim_produit with 100 rows
+2026-05-12 11:50:49,068 — INFO — Loading dimension dim_produit with 100 rows
+2026-05-12 11:50:49,068 — INFO — Loading dimension dim_produit with 100 rows
+2026-05-12 11:50:49,068 — INFO — Loading dimension dim_produit with 100 rows
+2026-05-12 11:50:49,068 — INFO — Loading dimension dim_produit with 100 rows
+2026-05-12 11:50:49,068 — INFO — Loading dimension dim_produit with 100 rows
+2026-05-12 11:50:49,124 — INFO — Loaded dim_produit
+2026-05-12 11:50:49,124 — INFO — Loaded dim_produit
+2026-05-12 11:50:49,124 — INFO — Loaded dim_produit
+2026-05-12 11:50:49,124 — INFO — Loaded dim_produit
+2026-05-12 11:50:49,124 — INFO — Loaded dim_produit
+2026-05-12 11:50:49,124 — INFO — Loaded dim_produit
+2026-05-12 11:50:49,124 — INFO — Loaded dim_produit
+2026-05-12 11:50:49,124 — INFO — Loading dimension dim_region with 31 rows
+2026-05-12 11:50:49,124 — INFO — Loading dimension dim_region with 31 rows
+2026-05-12 11:50:49,124 — INFO — Loading dimension dim_region with 31 rows
+2026-05-12 11:50:49,124 — INFO — Loading dimension dim_region with 31 rows
+2026-05-12 11:50:49,124 — INFO — Loading dimension dim_region with 31 rows
+2026-05-12 11:50:49,124 — INFO — Loading dimension dim_region with 31 rows
+2026-05-12 11:50:49,124 — INFO — Loading dimension dim_region with 31 rows
+2026-05-12 11:50:49,137 — INFO — Loaded dim_region
+2026-05-12 11:50:49,137 — INFO — Loaded dim_region
+2026-05-12 11:50:49,137 — INFO — Loaded dim_region
+2026-05-12 11:50:49,137 — INFO — Loaded dim_region
+2026-05-12 11:50:49,137 — INFO — Loaded dim_region
+2026-05-12 11:50:49,137 — INFO — Loaded dim_region
+2026-05-12 11:50:49,137 — INFO — Loaded dim_region
+2026-05-12 11:50:49,137 — INFO — Loading dimension dim_livreur with 31 rows
+2026-05-12 11:50:49,137 — INFO — Loading dimension dim_livreur with 31 rows
+2026-05-12 11:50:49,137 — INFO — Loading dimension dim_livreur with 31 rows
+2026-05-12 11:50:49,137 — INFO — Loading dimension dim_livreur with 31 rows
+2026-05-12 11:50:49,137 — INFO — Loading dimension dim_livreur with 31 rows
+2026-05-12 11:50:49,137 — INFO — Loading dimension dim_livreur with 31 rows
+2026-05-12 11:50:49,137 — INFO — Loading dimension dim_livreur with 31 rows
+2026-05-12 11:50:49,145 — INFO — Loaded dim_livreur
+2026-05-12 11:50:49,145 — INFO — Loaded dim_livreur
+2026-05-12 11:50:49,145 — INFO — Loaded dim_livreur
+2026-05-12 11:50:49,145 — INFO — Loaded dim_livreur
+2026-05-12 11:50:49,145 — INFO — Loaded dim_livreur
+2026-05-12 11:50:49,145 — INFO — Loaded dim_livreur
+2026-05-12 11:50:49,145 — INFO — Loaded dim_livreur
+2026-05-12 11:50:49,151 — INFO — Loading facts fait_ventes with 48355 rows
+2026-05-12 11:50:49,151 — INFO — Loading facts fait_ventes with 48355 rows
+2026-05-12 11:50:49,151 — INFO — Loading facts fait_ventes with 48355 rows
+2026-05-12 11:50:49,151 — INFO — Loading facts fait_ventes with 48355 rows
+2026-05-12 11:50:49,151 — INFO — Loading facts fait_ventes with 48355 rows
+2026-05-12 11:50:49,151 — INFO — Loading facts fait_ventes with 48355 rows
+2026-05-12 11:50:49,151 — INFO — Loading facts fait_ventes with 48355 rows
+2026-05-12 11:50:58,013 — INFO — Loaded fait_ventes
+2026-05-12 11:50:58,013 — INFO — Loaded fait_ventes
+2026-05-12 11:50:58,013 — INFO — Loaded fait_ventes
+2026-05-12 11:50:58,013 — INFO — Loaded fait_ventes
+2026-05-12 11:50:58,013 — INFO — Loaded fait_ventes
+2026-05-12 11:50:58,013 — INFO — Loaded fait_ventes
+2026-05-12 11:50:58,013 — INFO — Loaded fait_ventes
+2026-05-12 11:50:58,013 — INFO — Loading completed
+2026-05-12 11:50:58,013 — INFO — Loading completed
+2026-05-12 11:50:58,013 — INFO — Loading completed
+2026-05-12 11:50:58,013 — INFO — Loading completed
+2026-05-12 11:50:58,013 — INFO — Loading completed
+2026-05-12 11:50:58,013 — INFO — Loading completed
+2026-05-12 11:50:58,013 — INFO — Loading completed
+2026-05-12 11:50:58,018 — INFO — Pipeline completed in 14.74 seconds
+2026-05-12 11:50:58,018 — INFO — Pipeline completed in 14.74 seconds
+2026-05-12 11:50:58,018 — INFO — Pipeline completed in 14.74 seconds
+2026-05-12 11:50:58,018 — INFO — Pipeline completed in 14.74 seconds
+2026-05-12 11:50:58,018 — INFO — Pipeline completed in 14.74 seconds
+2026-05-12 11:50:58,018 — INFO — Pipeline completed in 14.74 seconds
+2026-05-12 11:50:58,018 — INFO — Pipeline completed in 14.74 seconds
